@@ -1,0 +1,37 @@
+what i will be doing is reading the book
+and at times check on the videos
+
+ep 1
+the sequel to this book?
+
+Alan J Perlis
+"Epigrams on Programming"
+"its bettter to have 100 functions
+ operate on one ds ...."
+ APL: A language for lyrical programmign
+
+learning algorithms is very important
+
+python flavor lisp looks interesting
+
+talks about applicative order and normal order
+
+ep 2
+"tech" podcast list
+
+should i listen to them?
+
+interesting solution for the
+factorial thing
+would have probably done the samething
+on haskell
+fact x = foldl (*) 1 [1..x]
+
+16:50
+
+this (threading ~>) looks interesting
+
+2024/08/06
+
+Because i quit the book i also quit this. but this looks much more digestible so
+you should maybe venture here instead first before book
