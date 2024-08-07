@@ -1,2 +1,4 @@
 # should not include the book right?
 sicp.pdf
+
+.DS_Store
